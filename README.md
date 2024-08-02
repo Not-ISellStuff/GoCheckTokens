@@ -1,6 +1,7 @@
 # GoCheckTokens Setup
 
 1.Put your tokens in tokens.txt
+
 2.Open Up main.exe
 
 If you do not trust the exe the source code is in main.go
